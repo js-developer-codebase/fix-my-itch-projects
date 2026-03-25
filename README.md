@@ -17,8 +17,8 @@ The goal is to build projects that are:
 
 ---
 
-###  InvoiceFlow – Smart Invoice Manager for Micro & Small Businesses
-*  Repo: [https://github.com/js-developer-codebase/WebShield](https://github.com/js-developer-codebase/InvoiceLite-Next.git)
+###  InvoiceLite – Smart Invoice Manager for Micro & Small Businesses
+*  Repo: [https://github.com/js-developer-codebase/InvoiceLite-Next](https://github.com/js-developer-codebase/InvoiceLite-Next)
 *  Problem: Micro and small businesses waste significant administrative time creating, tracking, and reconciling invoices manually. Enterprise-grade ERP systems are prohibitively expensive, overly complex, and require extensive training that small teams cannot afford.
 *  Solution: A lightweight, intuitive invoice management app built with Next.js that lets small business owners create, send, track, and reconcile invoices in minutes — no training required.
 *  Target Users: Freelancers, micro-businesses, small shop owners, independent contractors
