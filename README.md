@@ -33,7 +33,28 @@ The goal is to build projects that are:
 *  Backend Repo : [https://github.com/js-developer-codebase/Nanopay-Backend](https://github.com/js-developer-codebase/Nanopay-Backend)
 *  Target Users: Small shop owners, micro-businesses, home-based businesses, anyone managing a team of under 10 employees
 ---
+### Clarix – Multi-Tenant SaaS Subscription Manager for Indian Enterprises
 
+* **Problem:** Indian companies bleed 20–30% of their software budget on unused 
+  seats, forgotten trial conversions, and redundant tools purchased independently 
+  by different departments. Finance teams lack centralized visibility into all 
+  software expenditures and receive no automated alerts before costly renewals 
+  auto-trigger.
+
+* **Solution:** A production-grade, multi-tenant subscription management platform 
+  built with Next.js and Prisma that gives Super Admins full control over multiple 
+  companies, Company Admins complete visibility into their SaaS stack, and automated 
+  renewal alerts at 90, 60, and 30-day thresholds.
+
+* **Repo:** [https://github.com/js-developer-codebase/Clarix](https://github.com/js-developer-codebase/Clarix)
+
+* **Target Users:** Indian SMEs, SaaS-heavy tech startups, finance and IT teams 
+  managing multi-department software spend
+
+
+  ---
+
+  
 ## More Projects Coming Soon
 This collection will continue to grow with more problem-driven applications.
 
